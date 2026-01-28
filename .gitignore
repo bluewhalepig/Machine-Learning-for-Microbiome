@@ -1,0 +1,8 @@
+# Julia
+**/Manifest.toml
+
+# Data 
+*.csv
+
+# Outputs
+*.png
